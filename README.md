@@ -3,14 +3,16 @@
 **Deskripsi**: contoh sederhana backend untuk manajemen karyawan (CRUD)
 
 Tools:
-Golang: 1.21.5
-gin v1.10.0
-gorm v1.9.16
-godotenv v1.5.
+
+- Golang: 1.21.5
+- gin v1.10.0
+- gorm v1.9.16
+- godotenv v1.5.
 
 **Installed but not yet used**
-golang-jwt/jwt/v4 v4.5.0
-jwt-go v3.2.0+incompatible
+
+- golang-jwt/jwt/v4 v4.5.0
+- jwt-go v3.2.0+incompatible
 
 ### Instalasi dependency jika anda clone repo ini
 
